@@ -100,7 +100,7 @@ MeetMind AI bypasses traditional heavy SDKs and utilizes clean `URLSession` REST
        static let geminiAPIKey = "YOUR_GEMINI_API_KEY_HERE"
    }
    ```
-   > ⚠️ This file is **gitignored** to protect your API key.
+   ignoring secret in repo
 
 3. Open `MeetMindAI.xcodeproj` in Xcode.
 4. Select a physical device (recommended for Microphone/Speech framework) or simulator.
